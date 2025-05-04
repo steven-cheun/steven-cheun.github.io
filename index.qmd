@@ -1,6 +1,6 @@
 ---
 title: "Steven Cheun"
-image: media\87074.jpg
+image: media/87074.jpg
 toc: false
 about: 
   template: trestles

@@ -10,7 +10,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects and Publications
-      - href: media\Academic_Resume_SC.pdf
+      - href: media/Academic_Resume_SC.pdf
         text: Resume
 
 format:
