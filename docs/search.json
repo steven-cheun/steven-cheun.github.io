@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Steven Cheun",
+    "section": "",
+    "text": "Summary\nI’m a Data Science student with a strong background in statistics, machine learning, and neural networks, particularly in areas like natural language processing (NLP). I have practical experience working with Python, R, and SQL, tackling real-world challenges in fields like public health, environmental issues, and AI ethics. As an officer in my school’s Data Science Club and a PALiISaDS scholar, I lead projects, develop analytical models, and communicate insights effectively. I’m passionate about using data to drive positive change and solve complex problems."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects and Publications",
+    "section": "",
+    "text": "Text Classification Using LSTM Neural Networks (Python, TensorFlow/Keras, Keras Tuner, Scikit-learn, Pandas)\n\nEnhanced two NLP models using Bidirectional LSTM for spam detection and sentiment analysis across over 15,000 emails and product review texts.\n\nDesigned and optimized final architectures with Keras Tuner, dropout regularization, and class balancing over a two-week development cycle.\n\nAchieved 98.7% test accuracy for binary spam detection and 85.7% on multi-class sentiment classification using tuned BiLSTM architecture."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects and Publications",
+    "section": "",
+    "text": "Text Classification Using LSTM Neural Networks (Python, TensorFlow/Keras, Keras Tuner, Scikit-learn, Pandas)\n\nEnhanced two NLP models using Bidirectional LSTM for spam detection and sentiment analysis across over 15,000 emails and product review texts.\n\nDesigned and optimized final architectures with Keras Tuner, dropout regularization, and class balancing over a two-week development cycle.\n\nAchieved 98.7% test accuracy for binary spam detection and 85.7% on multi-class sentiment classification using tuned BiLSTM architecture."
+  }
+]

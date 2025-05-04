@@ -1,11 +1,20 @@
 ---
-title: "quarto_website"
+title: "Steven Cheun"
+image: media/87074.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/steven-cheun-125750168/
+    - text: GitHub
+      href: https://github.com/steven-cheun
+    - text: Email
+      href: mailto:scheun@horizon.csueastbay.edu
 ---
 
-This is a Quarto website.
+**Summary**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I’m a Data Science student with a strong background in statistics, machine learning, and neural networks, particularly in areas like natural language processing (NLP). I have practical experience working with Python, R, and SQL, tackling real-world challenges in fields like public health, environmental issues, and AI ethics. As an officer in my school’s Data Science Club and a PALiISaDS scholar, I lead projects, develop analytical models, and communicate insights effectively. I’m passionate about using data to drive positive change and solve complex problems.

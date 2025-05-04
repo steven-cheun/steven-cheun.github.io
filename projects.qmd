@@ -1,0 +1,18 @@
+---
+title: "Projects and Publications"
+format:
+   html:
+      css: styles.css
+      toc: true
+---
+::: {.small-text}
+
+## Projects
+
+**Text Classification Using LSTM Neural Networks** (Python, TensorFlow/Keras, Keras Tuner, Scikit-learn, Pandas)
+
+- Enhanced two NLP models using Bidirectional LSTM for spam detection and sentiment analysis across over 15,000 emails and product review texts.  
+- Designed and optimized final architectures with Keras Tuner, dropout regularization, and class balancing over a two-week development cycle.  
+- Achieved 98.7% test accuracy for binary spam detection and 85.7% on multi-class sentiment classification using tuned BiLSTM architecture.
+
+:::
